@@ -1,6 +1,9 @@
-# `@cosmos-ui/vue`
+# `@informalsystems/tendermint-vue-ui`
 
-[![npm version](https://img.shields.io/npm/v/@cosmos-ui/vue)](https://www.npmjs.com/package/@cosmos-ui/vue)
+[![npm version](https://img.shields.io/npm/v/@informalsystems/tendermint-vue-ui)](https://www.npmjs.com/package/@informalsystems/tendermint-vue-ui)
+
+This is a fork of <https://github.com/tendermint/cosmos-ui>. Please do not use
+this fork!
 
 Vue UI component library
 
