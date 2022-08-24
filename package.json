@@ -1,12 +1,12 @@
 {
-  "name": "@cosmos-ui/vue",
+  "name": "@informalsystems/tendermint-vue-ui",
   "productName": "Tendermint UI",
   "description": "Tendermint UI contains components for front end projects.",
-  "version": "0.36.3",
+  "version": "0.37.0",
   "license": "Apache-2.0",
   "main": "src/index.js",
   "author": "Tendermint, Inc <hello@tendermint.com>",
-  "repository": "https://github.com/tendermint/cosmos-ui",
+  "repository": "https://github.com/informalsystems/tendermint-vue-ui",
   "scripts": {
     "serve": "start-storybook -p 9999 -s ./public",
     "build": "build-storybook -c .storybook -o dist -s ./public"
